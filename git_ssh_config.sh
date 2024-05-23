@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+echo "installing and config git"
 sudo apt update; sudo apt install upgrade
 sudo apt install git
 
